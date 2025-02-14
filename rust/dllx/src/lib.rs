@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: AGPL-3.0
+
 use std::{env, fs::{self, File}, io::{self, Read}, path::{Path, PathBuf}};
 use zip::read::ZipArchive;
 use serde::{Deserialize};
