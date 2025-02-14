@@ -1,0 +1,11 @@
+{
+    "name": "fslib",
+    "platforms": {
+        "windows": "./file.dll",
+        "macos": "./libfile.dylib",
+        "linux": "./libfile.so",
+        "ios": "./libfile.dylib",
+        "android": "./libfile.so"
+    }
+}
+
